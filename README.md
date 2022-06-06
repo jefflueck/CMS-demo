@@ -15,6 +15,20 @@ The owner can also update, delete, edit or upgrade users to Admin privilgaes if 
 
 The owner can also update, or delete individual students if needed.
 
+## How to see the app in action
+
+1. Admin user login is username **Sam** typecase sensitive, password **mydemoapp** typecase sensitive.
+
+- **Do not delete or change this user**
+
+2. User login is username **Frank** typecase sensitive, password **mydemoapp** typecase sensitive.
+
+- **Do not delete or change this user**
+- _You can add and delete students to this user if you want._
+
+3. Add as many users and students as you want.
+4. Log in as Admin to see the difference between Admin view and User view.
+
 ## User-Flow
 
 1. User registers their information using the register link and inputing all required fields into the form.
@@ -22,20 +36,6 @@ The owner can also update, or delete individual students if needed.
 3. They can then start to add students.
 4. After entering each student they are redirectred back to the user page showing their name and the newly added student.
 5. They can add as many students as they want to, their is no limit.
-
-## How to see the app in action
-
-1. Admin user login is username _Sam_ typecase sensitive, password _mydemoapp_ typecase sensitive.
-
-- **Do not delete or change this user**
-
-2. User login is username _Frank_ typecase sensitive, password _mydemoapp_ typecase sensitive.
-
-- **Do not delete or change this user**
-- _You can add and delete students to this user if you want._
-
-3. Add as many users and students as you want.
-4. Log in as Admin to see the difference between Admin view and User view.
 
 ## Admin-Flow
 
