@@ -15,6 +15,9 @@ The owner can also update, delete, edit or upgrade users to Admin privilgaes if 
 
 The owner can also update, or delete individual students if needed.
 
+https://bbgrand-cms-demo.herokuapp.com/
+
+
 ## How to see the app in action
 
 1. Admin user login is username **Sam** typecase sensitive, password **mydemoapp** typecase sensitive.
